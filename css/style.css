@@ -418,12 +418,12 @@ footer {
         margin-right: 14px;
     }
     .menu-list ul li a {
+        color:#D5BFDF ;
         display: inline-block;
         text-decoration: none;
         transition:  transform 0.5s ease-in-out, text-shadow 0.5s ease-in-out;
     }
     .menu-list ul li a:hover {
-        color:#D5BFDF ;
         transform: scale(1.1);
         text-shadow: 6px 4px 5px #a9a9a94b;
     
